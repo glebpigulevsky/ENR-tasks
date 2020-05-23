@@ -1,0 +1,14 @@
+* {
+  font-size: 10px;
+  background-color: grey;
+}
+.flag div:first-child{
+  color: white;
+}
+
+.flag div:nth-child(2){
+  color: blue;
+}
+.flag div:last-child {
+  color:red;
+}
